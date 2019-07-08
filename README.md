@@ -1,6 +1,6 @@
 # good-code-etiquette
 
-This workshop was put together by Paul Hancock (Curtin University), Rebecca Lange (Curtin University), and Manodeep Sinha (Swinburne University of technology). It was first presented at the 2019 Harley Wood School for astronomy -> see the original fork of this repo.
+This workshop was put together by Paul Hancock (Curtin University), Rebecca Lange (Curtin University), and Manodeep Sinha (Swinburne University of Technology). It was first presented at the 2019 Harley Wood School for Astronomy -> see the original fork of this repo.
 
 This version was adapted to better cater for a more general audience and include information on R (in the presentation only at this point in time).
 
