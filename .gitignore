@@ -3,3 +3,5 @@
 *.xml.gz
 gaia-hrd-dr2.ipynb
 .ipynb_checkpoints/
+__pycache__/
+mprun_demo.py
