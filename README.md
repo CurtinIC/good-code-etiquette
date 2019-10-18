@@ -22,7 +22,7 @@ Examples explored:
 - [Structure](Structure.ipynb)
 - [Documentation](Documentation.ipynb)
 - [Exception](Excepttions.ipynb)
-- [DRY examples](DRY examples.ipynb)
+- [DRY examples](DRYexamples.ipynb)
 - [Testing](Testing.ipynb)
 - [Vectorize](Vectorize.ipynb)
 
